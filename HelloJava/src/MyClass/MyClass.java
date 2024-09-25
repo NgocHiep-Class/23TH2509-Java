@@ -1,19 +1,15 @@
-/**
- * 
- */
-package MyClass;
 
-/**
- * 
- */
 public class MyClass {
 
-	/**
-	 * @param args
-	 */
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+	public static void main(string[] args) {
+		// khai báo các biến
+		int a = 5;
+		int b = 7;
+		int c = a+ b;
+		
+		// In ra màn hình
+		System.out.println("Hôm nay tôi học môn mới");
+		System.out.println("Tổng là:"+c);
 	}
 
 }
